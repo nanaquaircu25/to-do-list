@@ -1,0 +1,12 @@
+{
+    "name": "vendoe/to-do",
+    "description": "A simple to do list PHP app",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Andoh"
+        }
+    ],
+    "require": {}
+}
